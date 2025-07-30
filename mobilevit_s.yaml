@@ -1,0 +1,32 @@
+# configs/mobilevit_s.yaml
+model: mobilevitv2_s
+num_classes: 1000
+pretrained: false
+
+data:
+  train_dir: data/imagenet1k/train
+  val_dir:   data/imagenet1k/val
+
+input_size: 224
+batch_size: 512
+workers: 8
+pin_memory: true
+
+mixup:       0.0
+cutmix:      0.0
+randaugment: false
+label_smoothing: 0.0
+weight_decay:    0.0
+
+optimizer: sgd
+lr: 0.1
+momentum: 0.9
+
+scheduler: cosine
+epochs: 300
+min_lr: 0.00001
+
+amp: true
+
+save_dir:   checkpoints/mobilevitv2_s
+log_file:   logs/mobilevitv2_s_run.csv
