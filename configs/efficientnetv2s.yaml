@@ -1,0 +1,44 @@
+# configs/efficientnetv2s.yaml
+model: efficientnetv2_s
+num_classes: 1000
+pretrained: false
+
+data:
+  train_dir: data/imagenet1k/train
+  val_dir:   data/imagenet1k/val
+  # (We no longer split the train folder, so omit val_split & seed)
+
+input_size: 224
+batch_size: 512
+workers: 8
+pin_memory: true
+
+# augmentation
+#randaugment: true
+#mixup: 0.2
+#cutmix: 1.0
+
+
+mixup:       0.0
+cutmix:      0.0
+randaugment: false
+label_smoothing: 0.0
+weight_decay:    0.0
+
+
+# optimization
+optimizer: sgd
+lr: 0.1
+momentum: 0.9
+#weight_decay: 0.05
+
+scheduler: cosine
+epochs: 300
+min_lr: 0.00001
+
+# AMP
+amp: true
+
+# checkpoint & logging
+save_dir: checkpoints/efficientnetv2s
+log_file: logs/efficientnetv2s_run.csv
