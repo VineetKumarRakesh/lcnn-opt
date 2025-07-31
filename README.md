@@ -94,11 +94,10 @@ python scripts/ablation_study.py --config configs/convnext.yaml
 
 ## 📸 Results & Visualizations
 
-📈 All results are saved in the [outputs](./outputs/) folder.
+📈 All results are saved in the outputs folder.
 
-* Plots: `outputs/plots/`  
-* Training logs: `outputs/logs/`  
-* Tables: `outputs/tables/`
+* Plots: `/plots`  
+* Training logs: `/logs`
 
 > 💡 All graphs were created without harming any matplotlib instances.
 
