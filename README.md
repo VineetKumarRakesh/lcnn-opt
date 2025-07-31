@@ -82,12 +82,12 @@ python scripts/ablation_study.py --config configs/convnext.yaml
 ## 📁 Project Structure (because we’re organized)
 
 ```
-├── configs/              # YAML files for each model and experiment
-├── data/                 # Your ImageNet paths go here
-├── models/               # Model loading wrappers
-├── scripts/              # Ablation, plotting, FPS tools
-├── outputs/              # Logs, results, pretty graphs
-└── train.py / eval.py    # Main scripts
+1. configs/              # YAML files for each model and experiment
+2. plots/                # Outputs and graphs
+3. logs/                 # Output logs of each model
+4. data/                 # Data used for training and validation
+5. models/               # Model loading wrappers
+6. scripts/              # Ablation, plotting, main scripts
 ```
 
 ---
