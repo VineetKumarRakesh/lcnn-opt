@@ -43,11 +43,11 @@ This repository contains:
 
 ### 📈 Accuracy Curves
 
-**Accuracy vs Epochs**
-<img src="https://drive.google.com/file/d/1hqVnfSbrh2ygK1CZv2sjE3Gvy3DflfSY" alt="Accuracy vs Epochs" width="600"/>
+**Accuracy vs Epochs**  
+<img src="https://drive.google.com/uc?export=view&id=1hqVnfSbrh2ygK1CZv2sjE3Gvy3DflfSY" width="600"/>
 
 **Accuracy vs Learning Rate**  
-<img src="https://drive.google.com/file/d/1ARZ1RV774dxigeVUpHH2OKlGnEGSVm3k" alt="Accuracy vs LR" width="600"/>
+<img src="https://drive.google.com/uc?export=view&id=1ARZ1RV774dxigeVUpHH2OKlGnEGSVm3k" width="600"/>
 
 ---
 
