@@ -156,7 +156,7 @@ If this repository saved you time, compute, or reviewer wrath, please consider c
 
 ## 🌐 External Links
 
-* **arXiv**: _[Coming Soon]_  
+* **arXiv**: [arXiv:2507.02900](https://doi.org/10.48550/arXiv.2507.02900)  
 * **DOI**: _[To be minted]_  
 * **Project Page**: [https://github.com/VineetKumarRakesh/lcnn-opt](https://github.com/VineetKumarRakesh/lcnn-opt)
 
