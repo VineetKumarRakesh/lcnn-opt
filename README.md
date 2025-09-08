@@ -143,12 +143,14 @@ Please include:
 If this repository saved you time, compute, or reviewer wrath, please consider citing:
 
 ```bibtex
-@article{rakesh2025hyperopt,
-  title={Impact of Hyperparameter Optimization on the Accuracy of Lightweight Deep Learning Models for Real-Time Image Classification},
-  author={Vineet Kumar Rakesh and others},
-  journal={arXiv},
-  year={2025},
-  note={Published}
+@misc{rakesh2025impacthyperparameteroptimizationaccuracy,
+      title={Impact of Hyperparameter Optimization on the Accuracy of Lightweight Deep Learning Models for Real-Time Image Classification}, 
+      author={Vineet Kumar Rakesh and Soumya Mazumdar and Tapas Samanta and Sarbajit Pal and Amitabha Das},
+      year={2025},
+      eprint={2507.23315},
+      archivePrefix={arXiv},
+      primaryClass={cs.CV},
+      url={https://arxiv.org/abs/2507.23315}, 
 }
 ```
 
