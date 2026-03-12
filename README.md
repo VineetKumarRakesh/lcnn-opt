@@ -8,8 +8,8 @@
 Official repository for the paper:
 
 **📄 “Analysis of Hyperparameter Optimization Effects on Lightweight Deep Models for Real-Time Image Classification”**  
-🧪 *Accepted in* **Scientific Reports (Nature Portfolio)**  
-🔬 *By:* [Vineet Kumar Rakesh](mailto:vineet@vecc.gov.in)*, [Soumya Mazumdar](mailto:reachme@soumyamazumdar.com), [Tapas Samanta](mailto:tsamanta@vecc.gov.in), [Hemendra Kumar Pandey](mailto:hemendra@vecc.gov.in), and [Amitabha Das](mailto:amitabhad.snsa@jadavpuruniversity.in)  
+🧪 *Accepted in* **Scientific Reports (Nature Portfolio)** [arXiv:2507.23315](https://doi.org/10.48550/arXiv.2507.23315)  
+🔬 *By:* [Vineet Kumar Rakesh](mailto:vineet@vecc.gov.in), [Soumya Mazumdar](mailto:reachme@soumyamazumdar.com), [Tapas Samanta](mailto:tsamanta@vecc.gov.in), [Hemendra Kumar Pandey](mailto:hemendra@vecc.gov.in), and [Amitabha Das](mailto:amitabhad.snsa@jadavpuruniversity.in)  
 *Corresponding Author — Variable Energy Cyclotron Centre (VECC), DAE, Govt. of India*  
 
 ---
